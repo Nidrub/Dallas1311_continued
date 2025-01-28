@@ -1,0 +1,60 @@
+.navbar ul {
+    list-style-type: none;
+    background-color: #19986b;
+    padding: 0px;
+    margin: 0;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: #71af95;
+}
+.navbar li{
+    float: left;
+}
+img{
+    max-height: 500px;
+    width: 300px;
+    border-radius: 100%;
+
+}
+.profile{
+    display: inline-block;
+    overflow: hidden;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    padding: 10px;
+    max-width: 80%;
+
+}
+.profile h1{
+    color: black;
+    font-size: 30px;
+}
+.profile p{
+    font-size: 20px;
+    color: dimgrey;
+}
+.profile a{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+#side-note{
+    color: rgb(9, 33, 92);
+
+}
+span{
+    background: rgb(159, 190, 253);
+    padding: 5px;
+    border-radius: 15px;
+}
+#welcome-message{
+    color: #19986b;
+}
