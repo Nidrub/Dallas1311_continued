@@ -1,6 +1,6 @@
 .navbar ul {
     list-style-type: none;
-    background-color: #19986b;
+    background-color: rgb(239, 240, 243);
     padding: 0;
     margin: 0;
     overflow: hidden;
@@ -56,5 +56,5 @@ span{
     border-radius: 15px;
 }
 #welcome-message{
-    color: #19986b;
+    color: rgb(159, 190, 253);
 }
