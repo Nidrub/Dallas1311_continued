@@ -18,7 +18,6 @@ $(document).ready(function () {
     $('#thumbs img').click(function () {
         const newSrc = $(this).attr('src');
         const newAlt = $(this).attr('alt');
-
         $('#lgPic').attr('src', newSrc);
         $('#lgTitle').text(newAlt);
     });
